@@ -17,4 +17,6 @@
 - Volley第一次优于Retrofit
 - Retrofit第二次其获取缓存的速度优于Volley
 
+#### 快速简单使用可直接参考 https://github.com/yanzhenjie/NoHttp
+
 ## 注：代码是整合网上的资源，若有侵权，望告知
