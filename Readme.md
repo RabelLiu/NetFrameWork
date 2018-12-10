@@ -1,6 +1,6 @@
 ###结构
 - rxretrofit: android lib
-- volley: java lib
+- volley: android lib
 
 ###比较
 ~~~
