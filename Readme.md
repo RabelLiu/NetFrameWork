@@ -1,5 +1,5 @@
 ###结构
-- rxretrofit: android lib
+- rxretrofit: android lib 
 - volley: android lib
 
 ###比较
@@ -16,3 +16,5 @@
 #####结果
 - Volley第一优于Retrofit
 - Retrofit第二次其获取缓存的速度优于Volley
+
+## 注：代码是整合网上的资源，若有侵权，望告知
