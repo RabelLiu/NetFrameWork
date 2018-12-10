@@ -14,7 +14,7 @@
 12-10 17:20: this is Time_v:2105
 ~~~
 #####结果
-- Volley第一优于Retrofit
+- Volley第一次优于Retrofit
 - Retrofit第二次其获取缓存的速度优于Volley
 
 ## 注：代码是整合网上的资源，若有侵权，望告知
