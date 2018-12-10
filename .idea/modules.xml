@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/NetFrameWork.iml" filepath="$PROJECT_DIR$/NetFrameWork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/download/download.iml" filepath="$PROJECT_DIR$/download/download.iml" />
+      <module fileurl="file://D:\workspace\NetFrameWork\retrofit\retrofit.iml" filepath="D:\workspace\NetFrameWork\retrofit\retrofit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rxretrofit/rxretrofit.iml" filepath="$PROJECT_DIR$/rxretrofit/rxretrofit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/volley/volley.iml" filepath="$PROJECT_DIR$/volley/volley.iml" />
+    </modules>
+  </component>
+</project>
